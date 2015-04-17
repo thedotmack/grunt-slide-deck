@@ -1,1 +1,27 @@
-["index.md"]
+[
+    "index.md",
+    "about-me.md",
+    "repetitive-tasks-are-the-worst.md",
+    "what-is-task-automation.md",
+    "why-do-we-need-to-automate-these-tasks.md",
+    "what-kinds-of-things-can-we-do-with-task-automation.md",
+    "what-is-grunt.md",
+    "setting-up-your-grunt-project.md",
+    "simple-grunt-http-server.md",
+    "concatenate-and-minify-javascript.md",
+    "compile-css-from-a-pre-processor.md",
+    "autoprefixr.md",
+    "setting-up-the-watch-task.md",
+    "using-jade-templates-with-json-data-and-markdown-files.md",
+    "the-default-task-everything-at-once.md",
+    "9-problems-only-web-developers-will-understand.md",
+    "grunt-contrib-uglify.md",
+    "grunt-contrib-clean.md",
+    "grunt-contrib-jshint.md",
+    "grunt-contrib-copy.md",
+    "grunt-contrib-concat.md",
+    "grunt-contrib-imagemin.md",
+    "grunt-wiredep.md",
+    "grunt-contrib-csslint.md",
+    "grunt-replace.md"
+]
