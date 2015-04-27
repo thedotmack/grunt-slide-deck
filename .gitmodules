@@ -1,0 +1,3 @@
+[submodule "grunt-demo-source"]
+	path = grunt-demo-source
+	url = https://github.com/thedotmack/grunt-demo-source
