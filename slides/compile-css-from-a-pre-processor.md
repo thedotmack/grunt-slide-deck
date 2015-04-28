@@ -1,6 +1,6 @@
 ##  Compile CSS from a pre-processor
 
-This is a new Markdown slide
+Simple deployment
 
 note:
     Put your speaker notes here.
