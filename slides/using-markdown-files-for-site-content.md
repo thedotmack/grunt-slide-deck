@@ -1,4 +1,4 @@
-##  Using Jade Templates with JSON data and Markdown Files
+##  Using Markdown Files for Site Content
 
 This is a new Markdown slide
 

@@ -1,4 +1,4 @@
-##  Concatenate and Minify Javascript
+##  Concatenate and Minify Javascript (Con't)
 
 In the `grunt.initConfig` function, in between the last line of the `connect` configuration, and the first line of the `watch` configuration:
 
