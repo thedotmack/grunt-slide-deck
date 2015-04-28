@@ -16,6 +16,4 @@ You can now type `grunt` in your terminal, and a browser window will pop up and 
 <small>*The server only runs as long as grunt is running, therefore we run the `watch` task <br>to not only watch for file changes, but also to keep the server alive.*</small>
 
 note:
-    Now let's set up some Grunt tasks that create a simple http server, and will listen for file changes while we work so we can set our browser to Livereload when we save files in our project.
-
-    You can see them pressing 's'.
+    - Now let's set up some Grunt tasks that create a simple http server, and will listen for file changes while we work so we can set our browser to Livereload when we save files in our project.

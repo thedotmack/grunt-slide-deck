@@ -1,7 +1,4 @@
 # Create Your Own Static Site Generator with Grunt
 
-note:
-    From the terminal, pop in:
-        ```yo reveal:slide "Slide Title"```
-    Available options:
-        ```--markdown --attributes --notes```
+Future of Web Design London 2015
+http://internets.io/grunt-slide-deck

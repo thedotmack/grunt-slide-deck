@@ -9,4 +9,4 @@ Add the following to the bottom of your `Gruntfile.js` where you have your `grun
     $ grunt.loadNpmTasks('grunt-autoprefixer');
 
 note:
-    Grunt is also real handy at keeping your code future forward, and gives you the freedom to code without having to remember vendor prefixes for new technologies.
+    - Grunt is also real handy at keeping your code future forward, and gives you the freedom to code without having to remember vendor prefixes for new technologies.

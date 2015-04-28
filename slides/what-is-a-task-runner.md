@@ -5,4 +5,4 @@
 ### A task runner is a tool that allows you to streamline your web development process. <!-- .element: class="fragment" -->
 
 note:
-    A task runner is a tool that allows you to streamline your web development process. 
+    - A task runner is a tool that allows you to streamline your web development process. 

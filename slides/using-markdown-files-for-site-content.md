@@ -8,6 +8,3 @@ Add the following to the bottom of your `Gruntfile.js` where you have your `grun
 
     $ grunt.loadNpmTasks('grunt-markdown');
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
