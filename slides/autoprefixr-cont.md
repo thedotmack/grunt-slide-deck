@@ -1,4 +1,4 @@
-##  Autoprefixr (Con't)
+##  Autoprefixr (Cont'd)
 
 Add this to the `grunt.initConfig` function, in between the last line of the `less` configuration, and the first line of the `watch` configuration:
 

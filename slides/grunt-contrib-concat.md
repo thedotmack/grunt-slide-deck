@@ -1,7 +1,11 @@
-##  grunt-contrib-concat
+##  I have too many files!
 
-This is a new Markdown slide
+<img src="images/paperwork.gif" height="340">
+
+## Solved with Concat <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-contrib-concat --save-dev
+
+Source: https://www.npmjs.com/package/grunt-contrib-concat</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Concatenate files.

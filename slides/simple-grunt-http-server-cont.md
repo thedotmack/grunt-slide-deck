@@ -1,4 +1,4 @@
-##  Simple grunt http server (Con't)
+##  Simple grunt http server (Cont'd)
 
 Now, towards the bottom of `Gruntfile.js` <br>but before the closing `};` add:
 

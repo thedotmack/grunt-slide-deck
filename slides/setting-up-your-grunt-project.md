@@ -15,5 +15,7 @@ Open up `Gruntfile.js` and write:
     };
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    What we're doing here, is creating 2 files, a package.json and a Gruntfile.js. 
+    The package is going to contain all of the plugins we're going to install 
+    Packages get automatically added when we flag them with --save or --save-dev
+    The Gruntfile.js is your set of automation instructions

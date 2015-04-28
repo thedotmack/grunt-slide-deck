@@ -3,3 +3,4 @@
 <img src="images/robot.gif">
 
 note:    
+    next slide

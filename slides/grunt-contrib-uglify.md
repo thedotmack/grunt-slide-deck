@@ -1,7 +1,11 @@
-##  grunt-contrib-uglify
+##  Long, Boring JavaScript Files
 
-This is a new Markdown slide
+<img src="images/boring.gif" width="600">
+
+## Solved with Uglify <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-contrib-uglify --save-dev
+
+Source: https://www.npmjs.com/package/grunt-contrib-uglify</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Minify files with UglifyJS.

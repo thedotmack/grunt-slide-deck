@@ -1,7 +1,11 @@
-##  grunt-contrib-csslint
+##  My site looks weird. Why. WHY!
 
-This is a new Markdown slide
+<img src="images/mistake.gif" height="340">
+
+## Solved with CSSLint <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-contrib-csslint --save-dev
+
+Source: https://www.npmjs.com/package/grunt-contrib-csslint</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Lint CSS files

@@ -1,7 +1,11 @@
-##  grunt-wiredep
+##  I have too many dependencies!
 
-This is a new Markdown slide
+<img src="images/dependencies.gif" height="340">
+
+## Solved with Wiredep <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-wiredep --save-dev
+
+Source: https://www.npmjs.com/package/grunt-wiredep</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Inject your Bower dependencies right into your HTML from Grunt.

@@ -10,6 +10,8 @@
 // Default mixins and settings -----------------
 @import "../../bower_components/reveal.js/css/theme/template/mixins";
 @import "../../bower_components/reveal.js/css/theme/template/settings";
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Titillium+Web:400,700);
 // ---------------------------------------------
 
 // Include theme-specific fonts ----------------
@@ -55,3 +57,13 @@ $heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b
 
 // See ../../bower_components/reveal.js/css/theme/README.md
 // for further explanations on how reveal.js themes work.
+
+img {
+        border: none !important;
+        background: none !important;
+        box-shadow: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+        line-height: 1.05em !important;
+}
