@@ -7,5 +7,6 @@
 ### Stop poking me <!-- .element: class="fragment" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - Time Suck
+    - Super Annoying
+    - Stop Poking Me!!

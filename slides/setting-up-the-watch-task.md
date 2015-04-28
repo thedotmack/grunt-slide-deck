@@ -22,6 +22,6 @@ Add the following code inside your `watch` configuration:
 <small>*In order for Livereload to work, you have to install the Livereload (http://livereload.com/) browser plugin.*</small>
 
 note:
-    Grunt's `watch` task allows you to listen for file changes, and then run tasks after those files change, as well as Livereloading your browser after those changes are made.
+    - Grunt's `watch` task allows you to listen for file changes, and then run tasks after those files change, as well as Livereloading your browser after those changes are made.
 
 

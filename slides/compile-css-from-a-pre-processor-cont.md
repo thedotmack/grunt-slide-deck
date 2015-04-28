@@ -9,6 +9,3 @@ Add this to the `grunt.initConfig` function, in between the last line of the `ug
             }
         }
     },
-
-note:
-    

@@ -9,4 +9,4 @@ Add the following to the bottom of your `Gruntfile.js` where you have your `grun
     $ grunt.loadNpmTasks('grunt-contrib-less');
 
 note:
-    Grunt is awesome for your workflow involving CSS preprocessors like LESS or SASS. The following is an example of how to set up your project to compile LESS files to CSS.
+    - Grunt is awesome for your workflow involving CSS preprocessors like LESS or SASS. The following is an example of how to set up your project to compile LESS files to CSS.

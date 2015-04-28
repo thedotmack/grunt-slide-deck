@@ -11,7 +11,3 @@ I have 2 cats  <!-- .element: class="fragment" -->
 </div>
 
 I work with awesome clients, startups, and agencies to help them build really cool stuff. <!-- .element: class="fragment" -->
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

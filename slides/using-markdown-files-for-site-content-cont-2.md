@@ -12,6 +12,3 @@ File: `assets/data/blog-posts/blog-post-title-1.md`
     irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     nulla pariatur. Excepteur sint occaecat cupidatat non proident.
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

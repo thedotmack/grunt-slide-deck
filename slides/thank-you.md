@@ -4,6 +4,3 @@
 ### Like Copter Labs on Facebook: http://facebook.com/copterlabs<br><br>
 ### Call Your Mom, She Misses You
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

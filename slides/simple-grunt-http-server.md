@@ -20,6 +20,4 @@ In `Gruntfile.js`, edit the `grunt.initConfig()` function and add the following:
     });
 
 note:
-    Now let's set up some Grunt tasks that create a simple http server, and will listen for file changes while we work so we can set our browser to Livereload when we save files in our project.
-
-    You can see them pressing 's'.
+    - Now let's set up some Grunt tasks that create a simple http server, and will listen for file changes while we work so we can set our browser to Livereload when we save files in our project.
