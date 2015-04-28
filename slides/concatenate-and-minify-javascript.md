@@ -1,7 +1,12 @@
 ##  Concatenate and Minify Javascript
 
-This is a new Markdown slide
+Type the following into your terminal at your project's root:
+
+    $ npm install grunt-contrib-uglify --save-dev
+
+Add the following to the bottom of your `Gruntfile.js` where you have your `grunt.loadNpmTasks` functions listed:
+
+    grunt.loadNpmTasks('grunt-contrib-uglify');
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    You can use grunt to compress your JavaScript to serve smaller sized files to your users.

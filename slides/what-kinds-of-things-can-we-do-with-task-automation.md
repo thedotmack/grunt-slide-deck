@@ -2,6 +2,4 @@
 
 <img src="images/robot.gif">
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+note:    
