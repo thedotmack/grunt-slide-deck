@@ -1,20 +1,12 @@
 ##  Using Jade Templates with JSON data
 
-    jade: {
-        dist: {
-            options: {
-                data: function() {
-                    return {
-                        blog_posts: require( __dirname + '/assets/data/blog-posts.json')
-                    }
-                }
-            },
-            files: {
-                "index.html": "assets/templates/index.jade",
-                "blog-post.html": "assets/templates/blog-post.jade"
-            }
-        }
-    },
+In your terminal in the project's root, type:
+
+    $ npm install grunt-contrib-jade --save-dev
+
+Add the following to the bottom of your `Gruntfile.js` where you have your `grunt.loadNpmTasks` functions listed:
+
+    $ grunt.loadNpmTasks('grunt-contrib-jade');
 
 note:
     Put your speaker notes here.

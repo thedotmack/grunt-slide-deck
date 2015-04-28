@@ -3,6 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Titillium+Web:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 @font-face {
   font-family: 'League Gothic';
@@ -145,5 +146,13 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #13DAEC; }
+
+img {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.05em !important; }
 
 /*# sourceMappingURL=theme.css.map */

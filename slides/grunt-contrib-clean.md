@@ -1,7 +1,8 @@
-##  grunt-contrib-clean
+## Dirty Files and Folders
 
-This is a new Markdown slide
+<img src="images/messy.gif" height="350">
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+## Solved with Clean <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-contrib-clean --save-dev
+
+https://www.npmjs.com/package/grunt-contrib-clean</code></pre>

@@ -1,7 +1,11 @@
-##  grunt-contrib-jshint
+##  Code is Broken, Why?? :(
 
-This is a new Markdown slide
+<img src="images/broken.gif" width="520">
+
+## Solved with JSHint <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-contrib-jshint --save-dev
+
+Source: https://www.npmjs.com/package/grunt-contrib-jshint</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Validate files with JSHint.

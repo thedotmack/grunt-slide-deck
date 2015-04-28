@@ -1,4 +1,4 @@
-##  What kinds of things can we do with Task Automation? (con't)
+##  What kinds of things can we do with Task Automation? (Cont'd)
 
 ### <span class="fragment">Livereload, </span><span class="fragment">LESS, </span><span class="fragment">SASS, </span><span class="fragment">Minify Javascript, </span><span class="fragment">Minify CSS, </span><span class="fragment">Compress Images, </span><span class="fragment">Autoprefixr, </span><span class="fragment">Minify HTML, </span><span class="fragment">Minify SVG, </span><span class="fragment">WIREDEP, </span><span class="fragment">Find / Replace Text, </span><span class="fragment">JADE, </span><span class="fragment">Markdown, </span><span class="fragment">Deploy to Staging, </span><span class="fragment">Deploy to Production, </span><span class="fragment">Lint CSS and Javascript, </span><span class="fragment">Sourcemaps, </span><span class="fragment">Concatenate Files</span>
 # <span class="fragment">ALL</span> <span class="fragment">OF</span> <span class="fragment">THE</span> <span class="fragment">THINGS!</span> 

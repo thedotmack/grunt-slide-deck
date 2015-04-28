@@ -1,6 +1,17 @@
 ##  The Default Task, everything at once
 
-This is a new Markdown slide
+    grunt.registerTask('serve', [
+        'uglify:js',
+        'less:style',
+        'autoprefixer:main',
+        'jade',
+        'markdown',
+        'connect',
+        'watch'
+    ]);
+    
+    // Default task.
+    grunt.registerTask('default', 'serve');
 
 note:
     Put your speaker notes here.

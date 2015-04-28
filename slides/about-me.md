@@ -2,13 +2,15 @@
 
 ##  About Me
 
-#### Co-owner of Copter Labs <!-- .element: class="fragment" -->
-#### I've been coding like a boss since 1999 <!-- .element: class="fragment" -->
-#### I have 2 cats that help me be good at the internets.  <!-- .element: class="fragment" -->
+Co-owner of Copter Labs <!-- .element: class="fragment" -->
+
+I have 2 cats  <!-- .element: class="fragment" -->
+
 <div style="text-align: center">
-    <img class="fragment" src="images/tim.png" height="275" width="275" alt="Tim">&nbsp;&nbsp;&nbsp;<img class="fragment" src="images/una.png" height="275" width="275" alt="Una">
+    <img class="fragment" src="images/tim.png" height="250" width="250" alt="Tim">&nbsp;&nbsp;&nbsp;<img class="fragment" src="images/una.png" height="250" width="250" alt="Una">
 </div>
-#### I work with awesome clients, startups, and agencies to help them build really cool stuff. <!-- .element: class="fragment" -->
+
+I work with awesome clients, startups, and agencies to help them build really cool stuff. <!-- .element: class="fragment" -->
 
 note:
     Put your speaker notes here.

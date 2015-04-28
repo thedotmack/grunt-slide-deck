@@ -1,7 +1,11 @@
-##  grunt-replace
+##  All my links are wrong!
 
-This is a new Markdown slide
+<img src="images/replace.gif" height="340">
+
+## Solved with Replace <!-- .element: class="fragment" -->
+<pre class="fragment"><code class="haskell">$ npm install grunt-replace --save-dev
+
+Source: https://www.npmjs.com/package/grunt-replace</code></pre>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Replace text patterns
