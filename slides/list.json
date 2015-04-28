@@ -13,9 +13,12 @@
     "concatenate-and-minify-javascript.md",
     "concatenate-and-minify-javascript-cont.md",
     "compile-css-from-a-pre-processor.md",
+    "compile-css-from-a-pre-processor-cont.md",
     "autoprefixr.md",
+    "autoprefixr-cont.md",
     "setting-up-the-watch-task.md",
-    "using-jade-templates-with-json-data-and-markdown-files.md",
+    "using-jade-templates-with-json-data.md",
+    "using-markdown-files-for-site-content.md",
     "the-default-task-everything-at-once.md",
     "9-problems-only-web-developers-will-understand.md",
     "grunt-contrib-uglify.md",
@@ -26,5 +29,7 @@
     "grunt-contrib-imagemin.md",
     "grunt-wiredep.md",
     "grunt-contrib-csslint.md",
-    "grunt-replace.md"
+    "grunt-replace.md",
+    "recap.md",
+    "thank-you.md"
 ]
